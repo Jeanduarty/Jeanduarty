@@ -1,37 +1,35 @@
-# Oi, eu sou o Jean 👋
+# Jean Duarte
 
-Sou desenvolvedor de software e gosto de transformar ideias em produtos que resolvem problemas
-reais. Normalmente começo entendendo a experiência de quem vai usar, depois vou até a arquitetura,
-o código e a operação — sem perder de vista o motivo pelo qual aquilo está sendo construído.
+**Desenvolvedor back-end | Node.js · TypeScript · Arquitetura de Software**
 
-Hoje trabalho principalmente com **TypeScript, Node.js, React, PostgreSQL e IA**. Tenho um carinho
-especial por automações, agentes e integrações que tiram atrito do cotidiano.
+Atuo como desenvolvedor back-end na **Blip**, com foco em APIs, integrações, automações e produtos
+que aplicam inteligência artificial a problemas concretos. Trabalho principalmente com TypeScript,
+Node.js e PostgreSQL, mantendo atenção a arquitetura, testes, observabilidade e operação.
 
-## O que estou construindo
+[LinkedIn](https://www.linkedin.com/in/duartejean-/)
 
-- **[Minha Memória](https://github.com/Jeanduarty/minha-memoria)** — um segundo cérebro dentro do
-  WhatsApp. Ele guarda textos e áudios, encontra lembranças pelo significado e ajuda a revisitar o
-  que importa.
-- **[Teresa Browser Agent](https://github.com/Jeanduarty/teresa-browser-agent)** — um serviço de
-  automação de navegador para sessões autenticadas, coleta de conteúdo e processamento de mídia.
-- **[Email Service](https://github.com/Jeanduarty/email-service)** — um microsserviço em Java e
-  Spring Boot para envio de e-mails com AWS SES, criado para explorar Clean Architecture.
+## Competências
 
-## Como eu gosto de construir
+- **Back-end:** Node.js, TypeScript, Fastify, APIs REST e integrações;
+- **Dados:** PostgreSQL, Prisma ORM e SQLite;
+- **Front-end e mobile:** React, Next.js, React Native e Expo;
+- **Infraestrutura:** Docker, AWS e pipelines de CI/CD;
+- **IA e automação:** OpenAI, agentes, processamento de linguagem e automação de fluxos.
 
-- produtos simples de usar, mesmo quando a implementação é complexa;
-- código explícito, testável e fácil de manter;
-- integrações resilientes, com observabilidade e cuidado com falhas;
-- IA com limites claros, validação e responsabilidade sobre os dados;
-- evolução contínua: meus projetos antigos continuam aqui porque também contam a trajetória.
+## Projetos em destaque
 
-## Tecnologias que aparecem por aqui
+### [Minha Memória](https://github.com/Jeanduarty/minha-memoria)
 
-`TypeScript` · `Node.js` · `React` · `Next.js` · `Fastify` · `PostgreSQL` · `Prisma` · `Docker` ·
-`Java` · `Spring Boot` · `AWS` · `OpenAI`
+Agente pessoal de memória no WhatsApp. Armazena textos e áudios, realiza busca textual e semântica,
+organiza contextos e envia revisões periódicas. Construído com TypeScript, Fastify, PostgreSQL,
+React, Docker e OpenAI.
 
-## Vamos conversar
+### Palavra Viva
 
-Fique à vontade para explorar os repositórios. Se algum projeto despertar uma ideia, uma dúvida ou
-uma possibilidade de colaboração, pode abrir uma issue — boas conversas costumam ser o começo das
-melhores construções.
+Aplicativo mobile para cadastro, prática e revisão de vocabulário. Organiza palavras por contexto,
+mantém histórico e progresso local e gera cartões compartilháveis. Construído com React Native,
+Expo, TypeScript e SQLite.
+
+## Formação
+
+**PUC Minas** · 2024–2025
