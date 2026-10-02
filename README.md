@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/duartejean-/">
+  <a href="https://www.linkedin.com/in/duartejean-/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jean%20Duarte-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -16,6 +16,21 @@
 <h2>Projetos em destaque</h2>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://petrine.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="assets/teresa.png" alt="Teresa" width="100%">
+      </a>
+      <h3>Teresa</h3>
+      <p>
+        Uma aplicação de inteligência criativa que transforma ideias, referências e sinais das
+        redes sociais em tópicos e roteiros de conteúdo.
+      </p>
+      <p>
+        <a href="https://petrine.vercel.app" target="_blank" rel="noopener noreferrer"><strong>Acessar aplicação →</strong></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Jeanduarty/whatsapp-memory-assistant">
