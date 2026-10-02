@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://petrine.vercel.app" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Jeanduarty/teresa">
         <img src="assets/teresa.png" alt="Teresa" width="100%">
       </a>
       <h3>Teresa</h3>
@@ -27,7 +27,7 @@
         redes sociais em tópicos e roteiros de conteúdo.
       </p>
       <p>
-        <a href="https://petrine.vercel.app" target="_blank" rel="noopener noreferrer"><strong>Acessar aplicação →</strong></a>
+        <a href="https://github.com/Jeanduarty/teresa"><strong>Ver projeto →</strong></a>
       </p>
     </td>
   </tr>
