@@ -18,13 +18,13 @@ Node.js e PostgreSQL, mantendo atenção a arquitetura, testes, observabilidade 
 
 ## Projetos em destaque
 
-### [Minha Memória](https://github.com/Jeanduarty/minha-memoria)
+### [WhatsApp Memory Assistant](https://github.com/Jeanduarty/whatsapp-memory-assistant)
 
 Agente pessoal de memória no WhatsApp. Armazena textos e áudios, realiza busca textual e semântica,
 organiza contextos e envia revisões periódicas. Construído com TypeScript, Fastify, PostgreSQL,
 React, Docker e OpenAI.
 
-### Palavra Viva
+### Vocabulary Trainer
 
 Aplicativo mobile para cadastro, prática e revisão de vocabulário. Organiza palavras por contexto,
 mantém histórico e progresso local e gera cartões compartilháveis. Construído com React Native,
