@@ -1,22 +1,47 @@
-# Jean Duarte
+<h1 align="center">Jean Duarte</h1>
 
-**Desenvolvedor pleno**
+<p align="center"><strong>Desenvolvedor pleno</strong></p>
 
-Gosto de transformar ideias em produtos que façam sentido no dia a dia. Uso este espaço para
-reunir projetos próprios, acompanhar minha evolução e compartilhar o que estou construindo.
+<p align="center">
+  Gosto de transformar ideias em produtos que façam sentido no dia a dia.<br>
+  Este espaço reúne o que estou construindo e a evolução de cada projeto.
+</p>
 
-## Projetos em destaque
+<p align="center">
+  <a href="https://www.linkedin.com/in/duartejean-/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jean%20Duarte-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-### [WhatsApp Memory Assistant](https://github.com/Jeanduarty/whatsapp-memory-assistant)
+<h2>Projetos em destaque</h2>
 
-Um projeto para guardar e recuperar informações pelo WhatsApp, pensado para tornar registros e
-revisões parte de uma conversa comum.
-
-### Vocabulary Trainer
-
-Um aplicativo mobile para cadastrar palavras, praticar traduções e acompanhar o progresso de forma
-simples.
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/duartejean-/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanduarty/whatsapp-memory-assistant">
+        <img src="assets/whatsapp-memory-assistant.png" alt="WhatsApp Memory Assistant" width="100%">
+      </a>
+      <h3>WhatsApp Memory Assistant</h3>
+      <p>
+        Um projeto para guardar e recuperar informações pelo WhatsApp, tornando registros e
+        revisões parte de uma conversa comum.
+      </p>
+      <p>
+        <a href="https://github.com/Jeanduarty/whatsapp-memory-assistant"><strong>Ver projeto →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanduarty/vocabulary-trainer">
+        <img src="assets/vocabulary-trainer.png" alt="Vocabulary Trainer" width="100%">
+      </a>
+      <h3>Vocabulary Trainer</h3>
+      <p>
+        Um aplicativo mobile para cadastrar palavras, praticar traduções e acompanhar o progresso
+        de forma simples.
+      </p>
+      <p>
+        <a href="https://github.com/Jeanduarty/vocabulary-trainer"><strong>Ver projeto →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
